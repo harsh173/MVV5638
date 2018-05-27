@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.content10 {
+	margin: 10px;
+	padding: 1em;
+	
+	background-color: #ECECEC;
+	border-radius: 1em;
+	box-shadow: -5px 5px 5px #666;
+	-moz-box-shadow: -5px 5px 5px #666;
+	-webkit-box-shadow: -5px 5px 5px #666;
+}
+
+.content2 {
+	margin: 10px;
+	padding: 2em;
+	background-color: #ECECEC;
+	border-radius: 1em;
+	box-shadow: -5px 5px 5px #666;
+	-moz-box-shadow: -5px 5px 5px #666;
+	-webkit-box-shadow: -5px 5px 5px #666;
+}
+
+.content2 img {
+	padding: 0 1em 0 1em;
+	float: left;
+	
+}
+.content3{
+	margin: 10px;
+	padding: 4em;
+	text-align: right;
+	background-color: #ECECEC;
+	border-radius: 1em;
+	box-shadow: -5px 5px 5px #666;
+	-moz-box-shadow: -5px 5px 5px #666;
+	-webkit-box-shadow: -5px 5px 5px #666;
+}
+.content3 img {
+	float: right;
+	
+}
