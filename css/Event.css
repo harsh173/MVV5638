@@ -1,0 +1,41 @@
+@charset "utf-8";
+img {
+    float: left;
+}
+.eventcontent {
+   position:relative;
+   max-height:1000px;
+    max-width: 600px;
+    margin:0 auto;
+}
+
+.sidebar {
+	height:939px;
+	width: 150px;
+	background-color: #B8A489;
+	margin-bottom: 10px;
+	padding-left: 5px;
+	padding-right: 5px;
+	text-justify: auto;
+	float: left;
+	}
+	
+	
+#contentContainer {
+   
+	width: 600px;
+	background-color: #e0d4bd;
+	margin-left: auto;
+	margin-right: 50;
+	margin-bottom: 10px;
+	padding-top: 5px;
+	padding-left: 80px;
+	padding-right: auto;
+	padding-bottom: 5px;
+	text-justify: auto;
+	float:;
+}
+
+
+/* CSS Document */
+
